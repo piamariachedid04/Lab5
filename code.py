@@ -221,4 +221,3 @@ def delete_user(user_id):
         conn.close()
     
     return message
-
